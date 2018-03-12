@@ -7,8 +7,8 @@
 
 *   Press `?` for help on navigating these slides
 *   Press `m` for a slide menu
-*   Press `s` for speaker notes <br />
-*   Here is the [original session abstract and details](https://link/to/session/details)
+*   Press `s` for speaker notes
+*   Press `space` to advance to the next slide
 
 
 <!-- .slide: data-state="qrcode" id="qrcode" data-menu-title="QR code" data-timing="0" -->
